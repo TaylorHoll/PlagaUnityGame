@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 84cbdcfbad6534843ada32d74a1e1489
+timeCreated: 1523857312
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Northumbria
+  fontNames:
+  - DK Northumbria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

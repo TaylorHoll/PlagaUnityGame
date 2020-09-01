@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77a8c6747c8e7e048a4770f93c258e89
+timeCreated: 1523857600
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fette classic UNZ Fraktur
+  fontNames:
+  - Fette classic UNZ Fraktur
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dddb9e4e91e4ece488e26b5b1709af91
+timeCreated: 1523857624
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Celtic
+  fontNames:
+  - Celtic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 50dbe07d3cf978d4083344a610460a63
+timeCreated: 1523856418
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Germanika Personal Use
+  fontNames:
+  - Germanika Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

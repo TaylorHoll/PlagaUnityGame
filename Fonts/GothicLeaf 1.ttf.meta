@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5826f25e094391b4d9e83cc3e70b1836
+timeCreated: 1523857617
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gothic Leaf
+  fontNames:
+  - Gothic Leaf
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ddf5dbf6f479fc64999a4b5748021214, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

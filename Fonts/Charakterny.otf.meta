@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6548fb71d826a174a818945fd32c2caa
+timeCreated: 1523857841
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Charakterny
+  fontNames:
+  - Charakterny
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

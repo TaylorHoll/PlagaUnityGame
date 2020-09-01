@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 120b7c4f64a1d484581daef772f19113
+timeCreated: 1523857608
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Salterio Shadow
+  fontNames:
+  - Salterio Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
